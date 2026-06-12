@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Omkar Suryavanshi</h1>
 # 💫 About Me:
 🎓 B.Tech CSE Student<br>💻 Skilled in  Python, JavaScript, DSA, RDBMS, HTML<br>📚 Learning Python libraries + Backend Development + Android APK Development<br>⚡ Building real-world systems & automation tools<br>🎯 Goal: Become a Full Stack Software Engineer
 
